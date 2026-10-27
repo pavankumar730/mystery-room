@@ -1,0 +1,4 @@
+.result-unavailable{min-height:55vh;padding-top:100px;padding-bottom:110px}
+.result-unavailable h1{font:500 50px var(--serif);margin:20px 0 12px}
+.result-unavailable p{color:#a2aaa0;font-size:13px;margin:0 0 23px}
+@media(max-width:640px){.result-unavailable{min-height:55vh;padding-top:65px;padding-bottom:80px}.result-unavailable h1{font-size:42px}}
